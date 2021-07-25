@@ -2,6 +2,7 @@ body {
   font-family: Lato, serif;
   background: #2e354f;
   font-size: 1.125rem;
+  margin: 0;
 }
 
 .main-heading {
@@ -14,6 +15,7 @@ body {
 .section-two,
 .main-heading {
   padding: 50px;
+  margin: 0;
 }
 .section,
 .main-heading {
