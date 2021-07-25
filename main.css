@@ -5,26 +5,22 @@ body {
 }
 
 .main-heading {
-  width: 620px;
   color: #fff;
   font-size: 2rem;
-  margin: 0 auto;
 }
-/* 
-.main-heading h1 {
-  font-size: 2rem;
-} */
+
+/*LAYOUT*/
 .section-one,
 .section-two,
 .main-heading {
   padding: 50px;
 }
-.section {
+.section,
+.main-heading {
   margin: 0 auto;
   width: 620px;
 }
 
-.section-one,
 .container {
   background: #fff;
 }
@@ -40,6 +36,8 @@ img {
 .section-title {
   color: #ef5839;
 }
+
+/*button styles*/
 
 .btn {
   display: inline-block;
@@ -69,6 +67,8 @@ img {
 .btn-one:hover {
   background-color: darkkhaki;
 }
+
+/*links styles */
 
 a {
   color: #ef5839;
